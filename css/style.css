@@ -1,0 +1,6 @@
+.mainDiv{
+	background-image:url(../img/bg-red.png);
+	background-position:right bottom;
+	background-repeat: no-repeat;
+	padding:15px;
+}
