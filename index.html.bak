@@ -2,13 +2,22 @@
 <html>
 <head>
 <title>Tong Zhang</title>
-<Link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js">
+</script>
+<script src="js/index.js"></script>
 </head>
 <body>
 <div class="mainDiv">
-	<div class="top"></div>
-	<div class="mid"></div>
-	<div class="footer"></div>
+	<div class="top">TOP</div>
+	<div class="mid">
+		<div class="bg">
+			<figure class="circle">
+
+			</figure>
+		</div>
+	</div>
+	<div class="footer">FOTTER</div>
 </div>
 </body>
 </html>
